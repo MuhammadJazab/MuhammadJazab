@@ -33,12 +33,15 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="5%"/>
   </div>
   <div align="center">
-  <h3>Hire Me</h3>
+  <h3>Work with me</h3>
     <a href="https://www.upwork.com/workwith/muhammedjazabnajeeb">
      <img src="https://user-images.githubusercontent.com/34067718/173792897-e9c73c53-ae45-4e26-bc74-276e1c5bfb79.png" alt="UpWork" width="5%"/>
     </a>
      <a href="https://www.fiverr.com/jazabnajeeb?up_rollout=true">
      <img src="https://static.cdnlogo.com/logos/f/79/fiverr.svg" alt="Fiverr" width="5%"/>
+    </a>
+	  <a href="mailto:jazabnajeeb@yahoo.com?subject=I need a Quote">
+     <img src="https://user-images.githubusercontent.com/34067718/173805185-7737d4ef-03df-45ca-9bce-401345fecb7c.png" alt="Get Quote" width="5%"/>
     </a>
   </div>
   <div align="center">
