@@ -18,6 +18,7 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJazab&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
  <div dir="auto">
+   <h3>I am Proficient with</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="5%"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="5%"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET CORE" width="5%"/>
@@ -31,4 +32,18 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="5%"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="5%"/>
   </div>
+  <div align="center">
+  <h3>Hire Me</h3>
+    <a href="https://www.upwork.com/workwith/muhammedjazabnajeeb">
+     <img src="https://user-images.githubusercontent.com/34067718/173792897-e9c73c53-ae45-4e26-bc74-276e1c5bfb79.png" alt="UpWork" width="5%"/>
+    </a>
+     <a href="https://www.fiverr.com/jazabnajeeb?up_rollout=true">
+     <img src="https://static.cdnlogo.com/logos/f/79/fiverr.svg" alt="Fiverr" width="5%"/>
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://muhammadjazab.github.io">
+    My work
+    </a>
+  </div
 </div>
