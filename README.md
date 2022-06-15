@@ -17,8 +17,6 @@
 <p> In my free time, I solve problems created by my self 😅 and read tech articles.</p>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJazab&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-![](https://komarev.com/ghpvc/?username=your-github-MuhammadJazab&label=PROFILE+VIEWS)
-  
  <div dir="auto">
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="5%"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="5%"/>
