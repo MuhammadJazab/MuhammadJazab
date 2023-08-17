@@ -37,7 +37,7 @@
     <a href="https://www.upwork.com/workwith/muhammedjazabnajeeb">
      <img src="https://user-images.githubusercontent.com/34067718/173792897-e9c73c53-ae45-4e26-bc74-276e1c5bfb79.png" alt="UpWork" width="5%"/>
     </a>
-     <a href="https://www.fiverr.com/jazabnajeeb?up_rollout=true">
+     <a href="https://www.fiverr.com/jazabnajeeb">
      <img src="https://static.cdnlogo.com/logos/f/79/fiverr.svg" alt="Fiverr" width="5%"/>
     </a>
 	  <a href="mailto:jazabnajeeb@yahoo.com?subject=I need a Quote">
@@ -45,7 +45,7 @@
     </a>
   </div>
   <div align="center">
-    <a href="https://muhammadjazab.github.io">
+    <a href="http://jazab.jssdevs.com/">
     <img src="https://user-images.githubusercontent.com/34067718/173799336-9042bb20-f08e-42d4-8499-9888af36cb64.png" alt="Fiverr" width="20%"/>
     </a>
   </div
