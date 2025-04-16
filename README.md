@@ -16,7 +16,7 @@
 
 <p> In my free time, I solve problems created by my self 😅 and read tech articles.</p>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJazab&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJazab&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)-->
  <div dir="auto">
    <h3>I am Proficient with</h3>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="5%"/>
