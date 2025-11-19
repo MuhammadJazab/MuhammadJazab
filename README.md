@@ -14,7 +14,7 @@
   <h3>About Me 👨🏼‍💻</h3>
 <p> I am a Full Stack Developer .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></p>
 
-<p> In my free time, I solve problems created by my self 😅 and read tech articles.</p>
+<p> In my free time, I solve problems that I create myself 😅 and read tech articles.</p>
   
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJazab&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)-->
  <div dir="auto">
@@ -34,7 +34,7 @@
   </div>
   <div align="center">
   <h3>Work with me</h3>
-    <a href="https://www.upwork.com/workwith/muhammedjazabnajeeb">
+    <a href="https://upwork.com/freelancers/jazab">
      <img src="https://user-images.githubusercontent.com/34067718/173792897-e9c73c53-ae45-4e26-bc74-276e1c5bfb79.png" alt="UpWork" width="5%"/>
     </a>
      <a href="https://www.fiverr.com/jazabnajeeb">
